@@ -1,0 +1,7 @@
+Django==4.2
+scikit-learn==1.4.0
+xgboost==2.0.3
+joblib==1.4.0
+pandas==2.2.2
+numpy==1.26.4
+gunicorn==21.2.0  # For production (optional)
